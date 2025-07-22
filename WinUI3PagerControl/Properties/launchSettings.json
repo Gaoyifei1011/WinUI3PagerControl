@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3PagerControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3PagerControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
