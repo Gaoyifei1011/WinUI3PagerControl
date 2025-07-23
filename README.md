@@ -14,9 +14,9 @@
 
 ----------
 
-##### PagerControl 控件说明：https://github.com/microsoft/microsoft-ui-xaml/blob/main/src/controls/dev/PagerControl/readme.md
+##### PagerControl 控件说明：[Readme.md](https://github.com/microsoft/microsoft-ui-xaml/blob/main/src/controls/dev/PagerControl/readme.md)
 
-##### PagerControl control description: https://github.com/microsoft/microsoft-ui-xaml/blob/main/src/controls/dev/PagerControl/readme.md
+##### PagerControl control description: [Readme.md](https://github.com/microsoft/microsoft-ui-xaml/blob/main/src/controls/dev/PagerControl/readme.md)
 
 ----------
 
